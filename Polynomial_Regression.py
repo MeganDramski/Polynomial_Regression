@@ -1,10 +1,5 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Feb 12 15:41:35 2018
-
-@author: meganpolak
-"""
 
 
 
